@@ -1,0 +1,51 @@
+.banner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: rgb(27, 126, 126);
+  color: white;
+  min-height: 79vh;
+}
+.textobanner{
+
+  color: white;
+}
+.descripciones{
+  display: flex;
+  padding: 50px;
+}
+.titulodes{
+  font-weight: bold;
+}
+.condestex{
+  color: gray;
+  font-size: 13px;
+}
+.cont-item{
+  display: flex;
+}
+.contacto{
+
+}
+
+
+/** Estilos diseños diego **/
+.tarjeta-herramienta{
+  border-radius: 1rem;
+  margin: 5px;
+}
+.tarjeta-herramienta a{
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+.cabecera-herramienta {
+  min-height: 140px;
+  border-radius:  1rem 1rem 0 0;
+
+}
+.plan{
+  border: 1px solid rgb(214, 214, 214);
+  margin:10px;
+}
+
